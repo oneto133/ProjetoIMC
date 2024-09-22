@@ -20,11 +20,11 @@ com os valores de referência da OMS.
 
 **Testes**
 
--> Esse script foi feito em um conjunto de plataformas, tendo inicio no Google Cloud Shell
+* Esse script foi feito em um conjunto de plataformas, tendo inicio no Google Cloud Shell
 prosseguindo com testes unitários no Google Colab e fazendo a limpeza nescessária no Visual
 Stúdio Code.
 
--> Os Testes finais foram executados em terminaisn windows e linux(Ambiente virtual)
+* Os Testes finais foram executados em terminaisn windows e linux(Ambiente virtual)
 usado editores de códigos para testes como Jupyter e Pycharm para se certificar da qualidade
 do código.
 
