@@ -56,12 +56,12 @@ gerenciar seus dados, o mesmo conseguirar ter um controle sobre sua saúde.
 
 * Com os dados Fornecidos, o calculo se inica passando por um tratamento, primeiro dados são checado, se puderem ser convertidos para float, passa por um tratamento de limite de peso, o peso máximo a ser recebido não pode ultrapassar `600 kgs`, assim como a altura não pode passar de `3 Metros`, após a verificação e com todos os dados certos, se dá início ao cálculo IMC.
 
-* Após o resultado dos dados, é apresentado a situação do paciente de acordo com os dados fornecidos pela OMS https://aps.bvs.br/apps/calculadoras/?page=6
+* Após o resultado dos dados, é apresentado a situação do paciente de acordo com os dados fornecidos pela [OMS](https://aps.bvs.br/apps/calculadoras/?page=6)
 
 
 **Continuar ou Finalizar?**
 
-* Há uma entrada de dados com as opções de resposta entre **Sim** ou **Não** para o usuário decidir de quer continuar ou não. Uma verificação simples com uma limpeza de terminal que interage com alguns sistemas, como `Windows`, `Linux` e `Mac`.
+* Há uma entrada de dados com as opções de resposta entre **Sim** ou **Não** para o usuário decidir se quer continuar ou não. Uma verificação simples com uma limpeza de terminal que interage com alguns sistemas, como `Windows`, `Linux` e `Mac`.
 
 ### Considerações finais
 
