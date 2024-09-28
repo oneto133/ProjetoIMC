@@ -11,10 +11,19 @@ Este projeto é uma calculadora simples de Índice de Massa Corporal (IMC). Ela 
 
 **Como executar:**
 
-1. Clone este repositório: ```https://github.com/oneto133/ProjetoIMC.git```
-2. Instale as dependências: `pip install -r requirements.txt`
+1. Clone este repositório:
+```
+https://github.com/oneto133/ProjetoIMC.git
+```
+3. Instale as dependências:
+```
+pip install -r requirements.txt
+```
 
-3. Execute o script: `python Main.py`
+4. Execute o script:
+```
+python Main.py
+```
 
 
 **Testes**
