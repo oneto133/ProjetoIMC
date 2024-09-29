@@ -68,3 +68,4 @@ gerenciar seus dados, o mesmo conseguirar ter um controle sobre sua saúde.
 * O código foi inteiro escrito de forma autêntica, assim como está documentado o uso do quadro kanban
 no Trello. Foi usada de conceitos da metodologia ágil, incluindo o método incremental, onde, coforme
 o projeto vai evoluindo, tambem vai sendo incrementado novos requisitos.
+
